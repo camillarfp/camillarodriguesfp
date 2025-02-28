@@ -8,6 +8,9 @@ Este portfólio foi criado para que eu pudesse praticar meus conhecimentos sobre
 - HTML
 - CSS
 
+## Uso
+Para visualizar o portfólio, você pode acessar o seguinte link: https://camillarfp.github.io/camillarodriguesfp/
+
 ## Contato
 - Email: camillarodriguesfp2@gmail.com
 - LinkedIn: https://www.linkedin.com/in/camillarodriguesfp/
