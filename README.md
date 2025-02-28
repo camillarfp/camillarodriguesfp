@@ -1,12 +1,10 @@
-# Meu Portfólio 😊🌷
-Este repositório contém meu portfólio pessoal, que mostra um pouco sobre mim, minhas principais habilidades e, também, como entrar em contato comigo.
-
-## Descrição
-Este portfólio foi criado para que eu pudesse praticar meus conhecimentos sobre Desenvolvimento Frontend.
+<h1 align="center">Meu Portfólio 😊🌷</h1>
+<p align="center">Este repositório contém meu portfólio pessoal, que mostra um pouco sobre mim, minhas principais habilidades e, também, como entrar em contato comigo.</p>
 
 ## Tecnologias Usadas
 - HTML
 - CSS
+- JavaScript
 
 ## Uso
 Para visualizar o portfólio, você pode acessar o seguinte link: https://camillarfp.github.io/camillarodriguesfp/
