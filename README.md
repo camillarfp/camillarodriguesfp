@@ -4,6 +4,7 @@
 ## Tecnologias Usadas
 - HTML
 - CSS
+- JavaScript
 
 ## Uso
 Para visualizar o portfólio, você pode acessar o seguinte link: https://camillarfp.github.io/camillarodriguesfp/
