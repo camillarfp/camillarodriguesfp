@@ -171,7 +171,7 @@ section {
     border-bottom: 2px solid rgb(235, 233, 137);
     display: inline-block;
     padding-bottom: 5px;
-    margin-top: 0;  /* Garantir que não haja margens extras acima do título */
+    margin-top: 0; 
 }
 
 /* container dos cards */
@@ -180,30 +180,30 @@ section {
     flex-wrap: wrap; 
     justify-content: space-between; 
     gap: 20px; 
-    margin-top: 10px; /* Ajuste o espaço superior dos cards */
-    width: 100%; /* Garante que os cards usem 100% da largura da seção */
+    margin-top: 10px; 
+    width: 100%; 
 }
 
 /* estilo de cada card */
 .skills .card {
-    background: rgba(255, 255, 255, 0.048); /* Transparente */
-    border: 1px solid rgba(235, 233, 137, 0.082); /* Borda sutil */
+    background: rgba(255, 255, 255, 0.048); 
+    border: 1px solid rgba(235, 233, 137, 0.082); 
     border-radius: 12px;
     padding: 18px;
-    width: 45%; /* Tamanho do card */
-    box-sizing: border-box; /* Para que o padding não afete o tamanho do card */
+    width: 45%; 
+    box-sizing: border-box; /* pro padding não afetar o tamanho do card */
     transition: transform 0.3s ease, background 0.3s ease;
     color: white;
-    word-wrap: break-word; /* Quebra a palavra caso o texto ultrapasse os limites */
-    overflow-wrap: break-word; /* Compatibilidade adicional */
-    min-height: 200px; /* Definido para garantir que os cards não sejam cortados */
+    word-wrap: break-word; 
+    overflow-wrap: break-word; 
+    min-height: 200px; 
 }
 
 /* responsividade para telas pequenas */
 @media (max-width: 768px) {
     .skills .card {
-        width: 100%; /* Faz os cards ficarem com 100% de largura em telas pequenas */
-        padding: 15px; /* Ajuste no padding para telas pequenas */
+        width: 100%; 
+        padding: 15px; 
     }
 
     /* ajusta o tamanho da lista de skills */
