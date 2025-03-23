@@ -5,7 +5,7 @@
 }
 
 html {
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth; /* suaviza o scroll da página */
 }
 
 body {
@@ -14,7 +14,7 @@ body {
     
     height: 100%;
     width: 100%;
-    overflow-x: hidden;
+    overflow-x: hidden; /* esconde a barra de rolagem horizontal */
 }
 
 /* header */
@@ -31,7 +31,7 @@ header {
     top: 0; 
     left: 0; 
     right: 0; 
-    z-index: 1000; 
+    z-index: 1000; /* fica acima de tudo, camada mais alta */
 }
 
 header h1 {
