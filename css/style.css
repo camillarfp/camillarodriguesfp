@@ -130,9 +130,9 @@ section {
     font-weight: 300;
 }
 
-/* Botão de download do CV */
+/* botão de download do CV */
 .btn-cv {
-    margin-top: 4%;
+    margin-top: 3%;
     width: 140px;
     padding: 8px 12px;
     font-size: 1em;
